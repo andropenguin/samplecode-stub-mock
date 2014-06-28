@@ -7,7 +7,9 @@ This sample code is the rspec one of the book Rails3 recipebook. It is written b
 ## How to run this test code
 
 $ bundle update
+
 $ bundle install
+
 $ bundle exec rspec entry_rspec.rb
 
 ## Warning
